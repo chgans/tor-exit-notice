@@ -13,5 +13,7 @@ French version is based on work by https://nos-oignons.net
 
 German version is based on work by https://www.torservers.net
 
+Italian version is based on work by https://osservatorionessuno.org/
+
 More information is available at
 https://trac.torproject.org/projects/tor/wiki/doc/TorExitGuidelines#Legal
